@@ -4,7 +4,7 @@
 
 > Web端: http://draw.io/
 >
-> 桌面端: [jgraph/drawio-desktop: Official electron build of diagrams.net](https://github.com/jgraph/drawio-desktop)
+> 桌面端: [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
 >
 > 源码: [jgraph/drawio](https://github.com/jgraph/drawio)
 >
@@ -16,7 +16,7 @@
 
 # 设置
 
-1. `样式`中勾选`sketch``圆角``曲线`
+1. `样式`中勾选`sketch 圆角 曲线`
 
 2. 更多图形中勾选`UML`,有虚线箭头
 
