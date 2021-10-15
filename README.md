@@ -13,6 +13,7 @@
 # 目录结构
 
 1. ReadSourceCode : 源码流程图
+   1. [xxxxue/Snap.Genshin](https://github.com/xxxxue/Snap.Genshin)
 
 # 设置
 
